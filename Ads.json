@@ -1,35 +1,42 @@
-{
-    "Ads": {
-        "ShowAds": true,
-        "ShowLoadingAds": true,
-        "ClickCount": 1,
-        "PriorityBanner": "admob",
-        "priorityInterstitial": "admob",
-        "PriorityNative": "admob",
-        "PriorityReward": "admob",
-        "IronAppKey": "",
-        "IronBanner": "DefaultBanner",
-        "IronInterstitial": "DefaultInterstitial",
-        "IronReward": "DefaultRewardedVideo",
-        "MaxBanner": "",
-        "MaxInterstitial": "",
-        "MaxNative": "",
-        "MaxReward": "",
-        "FanBanner": "xxxxx",
-        "FanInterstitial": "xxxxx",
-        "FanNative": "xxxxxx",
-       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobBanner":"ca-app-pub-3940256099942544/9214589741",
-      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
-      "AdmobReward":"ca-app-pub-3940256099942544/5224354917"
-    },
-    "ControlApp": {
-        "ShowFootballScoresWarning": false,
-        "ShowCricketSCoresWarning": false,
-        "PlayerPackageName": "",
-        "OnesignalID": "xxxxx",
-        "ShowUpdate": false,
-        "UpdateVersion": 2,
-        "UpdateLink": ""
+ {"ads":{
+
+ "ShowAds":false,
+    "ShowLoadingAds":false,
+    "ClickCount":1,
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"admob",
+    "IronAppKey":"",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"DefaultReward",
+    "MaxBanner":"xxxxxxxx",
+    "MaxInterstitial":"xxxxxxxx",
+    "MaxNative":"5",
+    "MaxReward":"",
+    "FanBanner":"",
+    "FanInterstitial":"",
+    "FanNative":"",
+    "AdmobBanner":"",
+    "AdmobInterstitial":"",
+    "AdmobNative":"",
+    "admob_reward":""
+  },
+  "ControlApp":{
+ "PlayerPackageName": "",
+ "app_redirect":"no",
+"redirect_package_name":""
+    
     }
+
+
+ 
+
+
+  
+ 
+  
+
+
 }
