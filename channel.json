@@ -2,7 +2,7 @@
   
   "Categories":[
     {
-      "CategoryName":"Real madrid VC real Sociedad",
+      "CategoryName":"Madrid - Arsenal",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -14,7 +14,7 @@
         ]
     },
         {
-      "CategoryName":"Fc barcelona VC paris PSG",
+      "CategoryName":"Barcelona - PSG",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -26,7 +26,7 @@
         ]
      },
         {
-      "CategoryName":"Fc bayern VC Arsenal",
+      "CategoryName":"Bayern - Tottenham ",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -38,7 +38,7 @@
         ]
      },
         {
-      "CategoryName":"Man united VC Liverpool",
+      "CategoryName":"M-united - Liverpool",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -50,7 +50,7 @@
         ]
      },
         {
-      "CategoryName":"Borussia dortmund VC Atletico",
+      "CategoryName":"Dortmund - Atletico",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -62,7 +62,7 @@
         ]          
    },
         {
-      "CategoryName":"Napoli VC Juventus",
+      "CategoryName":"Napoli - Juventus",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -74,7 +74,7 @@
         ]       
       },
         {
-      "CategoryName":"Ac milan VC Inter milan",
+      "CategoryName":"Ac milan - Inter",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -86,7 +86,7 @@
         ]       
     },
         {
-      "CategoryName":"Morocco vs Algeria",
+      "CategoryName":"Morocco - Algeria",
       "ChannelsList":[
         {
           "ChannelName":"working",
