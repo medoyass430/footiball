@@ -2,7 +2,7 @@
   
   "Categories":[
     {
-      "CategoryName":"Madrid - Arsenal",
+      "CategoryName":"dortmund - darmstadt",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -14,7 +14,7 @@
         ]
     },
         {
-      "CategoryName":"Barcelona - PSG",
+      "CategoryName":"leverkusen - augsburg",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -26,7 +26,7 @@
         ]
      },
         {
-      "CategoryName":"Bayern - Tottenham ",
+      "CategoryName":"Bayern - hoffenheim",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -38,7 +38,7 @@
         ]
      },
         {
-      "CategoryName":"M-united - Liverpool",
+      "CategoryName":"atalanta - lecce",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -50,7 +50,7 @@
         ]
      },
         {
-      "CategoryName":"Dortmund - Atletico",
+      "CategoryName":"torino - milan",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -74,7 +74,7 @@
         ]       
       },
         {
-      "CategoryName":"Ac milan - Inter",
+      "CategoryName":"udinese - Inter",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -86,7 +86,7 @@
         ]       
     },
         {
-      "CategoryName":"Morocco - Algeria",
+      "CategoryName":"LOSC - leon",
       "ChannelsList":[
         {
           "ChannelName":"working",
