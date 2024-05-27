@@ -56,7 +56,7 @@
           "ChannelName":"working",
           "ChannelDescription":"",
           "ChannelLogo":"https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-tv-bubble-live-broadcast-pattern-png-image_2473429.jpg",
-          "ChannelLink":"",
+          "ChannelLink":"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/5Esl0agiojlqhaEau86QU6IZjKe6Gdat9chOW9A2G34ZH4hC1M-_I1oyZ9Cx3YbOOkA9RYorylEQisk4Zgmbxw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live",
           "Play_In":"app"
         }
         ]          
