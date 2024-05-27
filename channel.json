@@ -2,7 +2,7 @@
   
   "Categories":[
     {
-      "CategoryName":"الجونة  - بيراميدز",
+      "CategoryName":"الجونة  (16:00) بيراميدز",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -14,7 +14,7 @@
         ]
     },
         {
-      "CategoryName":"الاتحاد السكندري - الزمالك",
+      "CategoryName":"الاتحاد السكندري (19:00) الزمالك",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -26,7 +26,7 @@
         ]
      },
         {
-      "CategoryName":"النصر - الاتحاد",
+      "CategoryName":"النصر (21:00) الاتحاد",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -38,7 +38,7 @@
         ]
      },
         {
-      "CategoryName":"الوحدة السعودي - الهلال",
+      "CategoryName":"الوحدة السعودي (21:00) الهلال",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -50,7 +50,7 @@
         ]
      },
         {
-      "CategoryName":"الاهلي السعودي - الفيحاء",
+      "CategoryName":"الاهلي السعودي (21:00) الفيحاء",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -62,7 +62,7 @@
         ]          
    },
         {
-      "CategoryName":"الفتح - الشباب",
+      "CategoryName":"الفتح (21:00) الشباب",
       "ChannelsList":[
         {
           "ChannelName":"working",
@@ -74,7 +74,7 @@
         ]       
       },
         {
-      "CategoryName":"التعاون - الاتفاق",
+      "CategoryName":"التعاون (21:00) الاتفاق",
       "ChannelsList":[
         {
           "ChannelName":"working",
